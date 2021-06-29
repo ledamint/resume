@@ -1,8 +1,46 @@
 - layout: top-middle
-  name: Super awesome project
-  link: github.com/sproogen
-  github: sproogen/resume-theme
+  name: Urban Bot
+  link: github.com/urban-bot/urban-bot
+  github: urban-bot/urban-bot
   quote: >
-    This is probably one of the greatest apps ever created, if you don't agree you're probably wrong.
+    The universal chatbot library based on React.
   description: | # this will include new lines to allow paragraphs
-    I started this project as a way if learning <mark>React</mark> and it has since grown into a fully fledged app. I have learned many skills through this and been I'm very proud of having this in my portfolio. If you don't have a project as awesome as this I would advise you make one.
+    The main goal of the project is to create a library that allows any who knows React.js easy to develop one chatbot app and launch it on any messenger.
+
+     **Achievements**:
+
+    *	Developing the project from idea to ready prototype with all technical and architectural decisions.
+    *	Creating a custom React reconciler. (Adjust React render to work with native chatbots)
+    *   Creating an abstract core that manages all processes and delegates specific work to parts that are responsible to direct platforms.
+    *   Add *Telegram*, *Facebook*, *Slack* support.
+    *   Creating a <a href="https://github.com/urban-bot/urban-bot-starter-typescript" target="_blank">typescript</a> and <a href="https://github.com/urban-bot/urban-bot-starter-javascript" target="_blank">javascript</a> starter with ready code linting, formatting, building, and development mode.
+    *   Creating a utility to start project with one terminal command like create-react-app, <a href="https://www.npmjs.com/package/create-urban-bot" target="_blank">create-urban-bot</a>.
+    *   Creating pure, Redux, MobX TODO list <a href="https://github.com/urban-bot/urban-bot/tree/master/examples" target="_blank">examples</a>.
+    *   Writing an <a href="https://medium.com/@heresliker/how-to-create-todo-list-telegram-bot-with-react-js-f9f77d22cc49" target="_blank">article</a> on how to create TODO list with Urban Bot.
+    *   Creating a <a href="https://urban-bot.now.sh/" target="_blank">site</a> with full project documentation.
+
+    **Technologies**:
+
+    Node.js, TypeScript, React, Webpack, Jest, Redux, MobX, Telegram API, Facebook API, Slack API
+
+- layout: top-middle
+  name: Almond Bot
+  link: almondbot.ru
+  quote: >
+    The application allows to create and manage chatbots for online booking.
+  description: | # this will include new lines to allow paragraphs
+
+    **Responsibilities**:
+
+    *	Developing and deploying frontend, backend, and chatbots from scratch.
+    *	Mentoring junior developers.
+
+    **Achievements**:
+
+    *	Created MVP with active users.
+    *	Convert to a mobile app with native notifications.
+
+    **Technologies**:
+
+    TypeScript, React, Apollo, Material UI, GraphQL, NestJS, Sequelize, Postgres, Urban Bot, Capacitor, Jest
+
