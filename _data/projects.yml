@@ -25,7 +25,6 @@
 
 - layout: top-middle
   name: Almond Bot
-  link: almondbot.ru
   quote: >
     The application allows to create and manage chatbots for online booking.
   description: | # this will include new lines to allow paragraphs

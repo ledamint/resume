@@ -1,8 +1,24 @@
 - layout: left
+  company: Lingoda
+  link: lingoda.com
+  job_title: Senior JavaScript Developer
+  dates: Sep 2021 - current
+  description: |
+    Online language school. Remote work.
+
+    **Responsibilities**:
+
+    *	Developing frontend features and common UI kit
+
+    **Technologies**:
+
+    TypeScript, React, GraphQL, Material UI, Jest
+
+- layout: left
   company: Askona
   link: askona.ru
   job_title: Senior JavaScript Developer
-  dates: Jun 2020 - current
+  dates: Jun 2020 - Sep 2021
   description: |
     The app for managing, selling and delivering products for shop assistants. Remote work.
 
