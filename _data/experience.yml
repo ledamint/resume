@@ -87,7 +87,7 @@
   company: ITScript
   link: sportpursuit.com
   job_title: JavaScript Developer
-  dates: Dec 2016 – Nov 2017
+  dates: May 2016 – Nov 2017
   #  quote: >
   #   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
   description: | # this will include new lines to allow paragraphs
@@ -108,28 +108,4 @@
     **Technologies**:
 
     JavaScript, Vue, Webpack, Babel, Karma, Jasmine
-
-- layout: left
-  company: ITScript
-  link: bathrooms.com
-  job_title: JavaScript Developer
-  dates: May 2016 – Dec 2016
-#  quote: >
-#   Solving 21st century problems by diging holes and making game changing products like the *not a flamethrower*
-  description: | # this will include new lines to allow paragraphs
-    A UK e-commerce project for sanitary engineering selling. The whole development team was in Russia (4 developers, 2 testers), while business and design teams were in London. The main goal of the project was supporting and expanding existing functionality both on backend and frontend.
-
-    **Responsibilities**:
-
-    *	Supporting current frontend code
-    *	Creating new cross-browser and cross-platform pages
-
-    **Achievements**:
-
-    *	Adapted current functionality to mobile
-    *	Implemented new features
-
-    **Technologies**:
-
-    JavaScript, jQuery, Twig, Bootstrap, PHP, MySQL
 
