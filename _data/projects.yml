@@ -22,24 +22,3 @@
     **Technologies**:
 
     Node.js, TypeScript, React, Webpack, Jest, Redux, MobX, Telegram API, Facebook API, Slack API
-
-- layout: top-middle
-  name: Almond Bot
-  quote: >
-    The application allows to create and manage chatbots for online booking.
-  description: | # this will include new lines to allow paragraphs
-
-    **Responsibilities**:
-
-    *	Developing and deploying frontend, backend, and chatbots from scratch.
-    *	Mentoring junior developers.
-
-    **Achievements**:
-
-    *	Created MVP with active users.
-    *	Convert to a mobile app with native notifications.
-
-    **Technologies**:
-
-    TypeScript, React, Apollo, Material UI, GraphQL, NestJS, Sequelize, Postgres, Urban Bot, Capacitor, Jest
-
